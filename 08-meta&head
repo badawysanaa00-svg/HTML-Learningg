@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Learn Simply</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1,0" />
+    <meta charset="utf-8" />
+    <meta name="description" content="Hello World" />
+    <meta name="author" content="Sanaa Mohamed" />
+    <meta name="keywords" content="python, html, css, javascript" />
+  </head>
+
+  <body>
+    <h1>Learn Simply</h1>
+    <p>
+      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ducimus unde
+      eveniet ea laboriosam odio. Voluptate exercitationem beatae itaque
+      praesentium quisquam repellat explicabo tempore voluptas. Neque beatae
+      blanditiis ducimus aperiam consectetur.
+    </p>
+  </body>
+</html>
