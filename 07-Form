@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+  <body>
+    <h2>Contact Us</h2>
+    <form>
+      <fieldset>
+        <legend>Send Us A Message</legend>
+
+        <div>
+          <label for="name">Name:</label>
+          <input
+            id="name"
+            required
+            placeholder="Enter Your Name"
+            type="text"
+            name="Name"
+            autofocus
+          />
+        </div>
+
+        <br /><br />
+
+        <div>
+          <label for="email">Email:</label>
+          <input
+            id="email"
+            required
+            placeholder="Enter Your Email"
+            type="email"
+            name="Email"
+          />
+        </div>
+        <label for="text">Message</label>
+        <br />
+        <textarea
+          cols="50"
+          raws="8"
+          type="text"
+          name="title"
+          placeholder="Enter Your Text"
+          id="text"
+        ></textarea>
+
+        <br /><br />
+
+        <input type="submit" />
+        <input type="reset" />
+      </fieldset>
+    </form>
+  </body>
+</html>
